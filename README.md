@@ -1,4 +1,4 @@
 # Cat Animation with Rive in Flutter
 
-<p float="left">
-  <img src="web/icons/cat.png" width="250" />
+<p float="center">
+  <img src="web/icons/cat.png" width="500" />
